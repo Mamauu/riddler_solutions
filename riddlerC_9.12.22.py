@@ -41,3 +41,5 @@ for i in range(sample_size):
 
 avq = np.average(winner_q_list)
 print(avq)
+
+#answer = 0.655085829092286
